@@ -1,12 +1,10 @@
 # Hi there! 👋 I'm **Sathwik Devadiga**
 
-![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Sathwik+Devadiga's+GitHub+Profile)
-
 ---
 
 ## 🌟 About Me
 
-- 🎓 **BSc in Information Technology** from Jai Hind College, Mumbai (CGPA: 8.9)
+- 🎓 **BSc in Information Technology** from Jai Hind College, Mumbai 
 - 💻 Currently an **Intern at Abans Group Pvt Ltd**
 - 🌱 Passionate about **Software Engineering**, **Data Science**, and **Web Development**
 - 🤝 Open to collaborating on Python and C++ projects

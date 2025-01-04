@@ -41,17 +41,14 @@
 ### **1. Ed-Tech Chatbot**
 - 🛠️ Tools: LangChain, Google Palm, FAISS, Huggingface, Streamlit
 - 📊 Developed an **LLM-based Q&A system** for real-time student interaction.
-- 🚀 [View Repository](https://github.com/SathwikDevadiga/ed-tech-chatbot)
 
 ### **2. C++ Web Server Development**
 - 🛠️ Tools: C++, WebSockets
 - 📊 Designed and implemented a **modular C++ web server** with reusable components.
-- 🚀 [View Repository](https://github.com/SathwikDevadiga/cpp-web-server)
 
 ### **3. Quiz App**
 - 🛠️ Tools: Django, React, MongoDB, Docker
 - 📊 Built a **quiz management system** with a dynamic admin interface and RESTful APIs.
-- 🚀 [View Repository](https://github.com/SathwikDevadiga/quiz-app)
 
 ---
 
@@ -74,8 +71,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-devadiga)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SathwikDevadiga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadiga.sathwik81544@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://sathwik-resume.tiiny.site/)
 
----
 ---
 
 ## 🎯 Fun Facts

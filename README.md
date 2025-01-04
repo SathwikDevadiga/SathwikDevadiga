@@ -76,19 +76,18 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadiga.sathwik81544@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-
-![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathwikDevadiga&show_icons=true&theme=radical)
-
-
-
 ---
 
 ## 🎯 Fun Facts
 
 - ♟️ I enjoy playing chess.
 - 🎵 I unwind by listening to my favorite music playlists.
+
+---
+
+## 📊 GitHub Stats
+
+![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathwikDevadiga&show_icons=true&theme=radical)
 
 ---
 

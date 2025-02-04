@@ -6,7 +6,7 @@
 
 - 🎓 **BSc in Information Technology** from Jai Hind College, Mumbai 
 - 💻 Currently an **Intern at Abans Group Pvt Ltd**
-- 🌱 Passionate about **Software Engineering**, **Data Science**, and **Web Development**
+- 🌱 Passionate about **Software Engineering**, **Data analysis**, and **Web Development**
 - 🤝 Open to collaborating on Python and C++ projects
 
 ---

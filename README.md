@@ -82,10 +82,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathwikDevadiga&show_icons=true&theme=radical)
-
----
-
 _Thanks for visiting my GitHub profile! Feel free to explore and connect! ✨_
